@@ -1,0 +1,15 @@
+{
+  "name": "Xss Vector Clip",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Xss Vector Clip",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "vectors.html"
+  },
+
+  "permissions" : [
+    "tabs"
+   ]
+
+}
